@@ -1,0 +1,165 @@
+{
+  "rooms": [
+    {
+      "id": "room-deluxe-king",
+      "slug": "deluxe-king",
+      "name": "Deluxe King Room",
+      "category": "Guest Room",
+      "description": "Refined sanctuary tailored with warm plaster tones, natural linen drapery, and artisanal Khorezm textile accents for tranquil rest in Urgench.",
+      "imageUrl": "/src/assets/images/room_deluxe_king_1795013279015.jpg",
+      "capacityAdults": 2,
+      "capacityChildren": 1,
+      "bedConfiguration": "1 King Bed",
+      "facilities": [
+        "Air-conditioned rooms",
+        "Free Wi-Fi",
+        "Breakfast",
+        "Room service"
+      ],
+      "pricePerNight": null,
+      "currency": "USD",
+      "available": true
+    },
+    {
+      "id": "room-executive-suite",
+      "slug": "executive-suite",
+      "name": "Executive Suite",
+      "category": "Suite",
+      "description": "Expansive suite featuring an arched separation between the private bedroom and sunlit salon, ideal for international guests and extended business stays.",
+      "imageUrl": "/src/assets/images/room_executive_suite_1795013278188.jpg",
+      "capacityAdults": 2,
+      "capacityChildren": 2,
+      "bedConfiguration": "1 King Bed & Salon Seating",
+      "facilities": [
+        "Air-conditioned rooms",
+        "Free Wi-Fi",
+        "Breakfast",
+        "Room service"
+      ],
+      "pricePerNight": null,
+      "currency": "USD",
+      "available": true
+    },
+    {
+      "id": "room-family-suite",
+      "slug": "family-accommodation-suite",
+      "name": "Family Accommodation Suite",
+      "category": "Family Suite",
+      "description": "Thoughtfully proportioned for families traveling together across Uzbekistan, combining dual queen beds with a generous living lounge.",
+      "imageUrl": "/src/assets/images/room_family_residence_1795013279029.jpg",
+      "capacityAdults": 4,
+      "capacityChildren": 2,
+      "bedConfiguration": "2 Queen Beds & Family Lounge",
+      "facilities": [
+        "Family accommodation",
+        "Air-conditioned rooms",
+        "Free Wi-Fi",
+        "Breakfast",
+        "Room service"
+      ],
+      "pricePerNight": null,
+      "currency": "USD",
+      "available": true
+    }
+  ],
+  "facilities": [
+    {
+      "id": "fac-wifi",
+      "name": "Free Wi-Fi",
+      "summary": "Complimentary wireless internet connectivity throughout guest rooms, reception, and dining spaces.",
+      "verified": true
+    },
+    {
+      "id": "fac-breakfast",
+      "name": "Breakfast",
+      "summary": "Fresh morning breakfast service prepared daily in our sunlit dining room.",
+      "verified": true
+    },
+    {
+      "id": "fac-parking",
+      "name": "Free parking",
+      "summary": "Complimentary on-site guest parking for arrivals by private vehicle or regional transfer.",
+      "verified": true
+    },
+    {
+      "id": "fac-ac",
+      "name": "Air-conditioned rooms",
+      "summary": "Individual climate control in every guest room and suite for year-round comfort in Khorezm.",
+      "verified": true
+    },
+    {
+      "id": "fac-room-service",
+      "name": "Room service",
+      "summary": "In-room hospitality and dining service attended directly by our hotel team.",
+      "verified": true
+    },
+    {
+      "id": "fac-family",
+      "name": "Family accommodation",
+      "summary": "Spacious multi-bed suites and welcoming arrangements tailored for traveling families.",
+      "verified": true
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-exterior",
+      "title": "Hotel Exterior & Courtyard",
+      "category": "Exterior & Courtyard",
+      "imageUrl": "/src/assets/images/hero_hotel_uzbegim_1795013277720.jpg",
+      "caption": "Evening illumination across the travertine arches and central courtyard."
+    },
+    {
+      "id": "gal-reception",
+      "title": "Reception & Concierge Lounge",
+      "category": "Reception",
+      "imageUrl": "/src/assets/images/hotel_reception_lounge_clean_1795013295679.jpg",
+      "caption": "Warm welcome at our emerald marble reception desk."
+    },
+    {
+      "id": "gal-deluxe",
+      "title": "Deluxe King Room",
+      "category": "Rooms & Suites",
+      "imageUrl": "/src/assets/images/room_deluxe_king_1795013279015.jpg",
+      "caption": "Tailored comfort with crisp linens and Uzbek silk accents."
+    },
+    {
+      "id": "gal-executive",
+      "title": "Executive Suite Salon",
+      "category": "Rooms & Suites",
+      "imageUrl": "/src/assets/images/room_executive_suite_1795013278188.jpg",
+      "caption": "Private lounge and arched sleeping quarters bathed in natural daylight."
+    },
+    {
+      "id": "gal-family",
+      "title": "Family Accommodation Suite",
+      "category": "Rooms & Suites",
+      "imageUrl": "/src/assets/images/room_family_residence_1795013279029.jpg",
+      "caption": "Generous dual-bed sanctuary designed for families visiting Urgench and Khiva."
+    },
+    {
+      "id": "gal-dining",
+      "title": "Morning Breakfast Salon",
+      "category": "Dining",
+      "imageUrl": "/src/assets/images/hotel_dining_breakfast_1795013280260.jpg",
+      "caption": "Fresh seasonal fruit, pastries, and warm hospitality each morning."
+    }
+  ],
+  "bookings": [],
+  "reviews": [],
+  "inquiries": [],
+  "settings": {
+    "hotelName": "Hotel Uzbegim",
+    "address": "A. Bakhodirhon 182/1, Urgench, Uzbekistan",
+    "telephone": "+998 62 226 11 01",
+    "email": "reservations@hoteluzbegim.uz",
+    "whatsappApproved": false,
+    "whatsappNumber": "+998622261101",
+    "checkInPolicy": "Check-in, check-out, and stay terms are confirmed directly by hotel management upon booking approval.",
+    "cancellationPolicy": "Modification and cancellation terms are communicated with your reservation confirmation.",
+    "socialLinks": {
+      "instagram": "",
+      "facebook": "",
+      "telegram": ""
+    }
+  }
+}
